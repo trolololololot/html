@@ -5,6 +5,7 @@
   <link stylesheet="style.css">
 </head>
   <body>
-    <h2>party on the leaf</h2>
+    <!---------------------BONUS--------------->
+    <button>claim bonus</button>
   </body>
 </html>
